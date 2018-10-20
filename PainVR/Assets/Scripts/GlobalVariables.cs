@@ -6,33 +6,6 @@ using UnityEngine.SceneManagement;
 using System;
 
 
-/*
-
-Hello future developers on OPAL Testing. First off, our POs were excellent throughout the entire process
-so you definitely got paired with a great project. Look, I'm going to give it to you straight, we had 4 team members
-in total throughout the semester. Only two of us actually worked on the project. It was disappointing to say the least,
-so progress was limited and we didn't accomplish as much as we thought we would. Due to the lack of teammates, we found
-ourselves working long hours the night before sprint deadlines so as to make up functionality our other teammates promised they would finish.
-So code may be sloppy, and we just didn't have time to refactor. We apologize in advance, it's really not too bad I promise.
-
-For the most part, nothing is hardcoded, and a lot of general functionality can be accomplished by simply making changes to this file. 
-Like, if you want to add a scene you built to the experience, just add the scene name to the array below (ith instructions in the dictionary below).
-
-The main files with functionality are:
-
-*GlobalVariables.cs (you are here)
-*GlobalFunctions.cs (static class with useful functions)
-*DisplayTitle.cs (started as the script to alert the scenes instructions, but (d)evolved into the entire timing logic for transitioning scenes)
-*ToggleSlider.cs (slider functionality)
-
-and that's basically it. There are a few files here and there you may come across that you need, but for the most part all of what we did is in those files.
-
-If you built a scene and you wish to add it to the shuffle, make sure it's added to your build settings, and just add it to the relevant arrays/dictionaries below.
-
-I may add to this at some point this summer ('18), but if not, I guess this is it. Please resist the urge to insult our code. If you need me, hit me up.
-
-*/
-
 public static class GlobalVariables
 {
 
